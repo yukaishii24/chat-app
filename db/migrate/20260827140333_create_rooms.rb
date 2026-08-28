@@ -6,3 +6,4 @@ class CreateRooms < ActiveRecord::Migration[7.1]
     end
   end
 end
+
